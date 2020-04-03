@@ -58,5 +58,6 @@ Events are useful, but avoid them until you have a set spawn point, tools, weapo
 - "The hunt for blood has begun"
 
 ## Bosses
-.[Link to Boss list on the Advent of Ascension Wiki](https://adventofascension.gamepedia.com/Bosses)
-.[Smash](https://adventofascension.gamepedia.com/Smash) and .[Corallus](https://adventofascension.gamepedia.com/Corallus) are the first two bosses you should start with. These are located in the overworld and only require basic equipment and weapons. Additionally, the .[Four Guardians](https://adventofascension.gamepedia.com/Four_Guardians) in the Haven realm and the .[Skeletal Army](https://adventofascension.gamepedia.com/Skeletal_Army) in the Precasia realm are also exciting fights.
+- [Link to Boss list on the Advent of Ascension Wiki](https://adventofascension.gamepedia.com/Bosses)
+
+[Smash](https://adventofascension.gamepedia.com/Smash) and [Corallus](https://adventofascension.gamepedia.com/Corallus) are the first two bosses you should start with. These are located in the overworld and only require basic equipment and weapons. Additionally, the [Four Guardians](https://adventofascension.gamepedia.com/Four_Guardians) in the Haven realm and the [Skeletal Army](https://adventofascension.gamepedia.com/Skeletal_Army) in the Precasia realm are also exciting fights.
