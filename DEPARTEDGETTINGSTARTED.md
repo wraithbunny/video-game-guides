@@ -1,11 +1,11 @@
-# Create a New World
-## Seed
+## Create a New World
+### Seed
 It's important to avoid biomes in which you won't be able to attack enemies until later in your gameplay. I scouted out some potential seeds and this one has a good starting area.
 - Seed: pokies
 
 If you choose a different seed, avoid being in a savanna, desert, taiga or swamp.
 
-## Game Rules
+### Game Rules
 There are only two rules you'll want to change. Keep all of your inventory items when you die because you will die a lot or in different dimensions and it becomes a pain to attempt to retrieve your items. Also, turn off mobGriefing to avoid letting the damage dealt by mobs destroy your buildings.
 - Hit 'T' to open the chat
 - Type: /gamerule keepAllInventory true
