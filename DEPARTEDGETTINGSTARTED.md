@@ -1,4 +1,4 @@
-#Note
+# Note
 This guide is based on the 3.0 version of the mod Advent of Ascension. It's recommended that you do not use the Wiki for tutorials on how to fight or summon a boss or get to a realm, as most of these have been updated for the 3.2 version.
 
 ## Create a New World
