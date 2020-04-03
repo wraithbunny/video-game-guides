@@ -1,3 +1,6 @@
+#Note
+This guide is based on the 3.0 version of the mod Advent of Ascension. It's recommended that you do not use the Wiki for tutorials on how to fight or summon a boss or get to a realm, as most of these have been updated for the 3.2 version.
+
 ## Create a New World
 ### Seed
 It's important to avoid biomes in which you won't be able to attack enemies until later in your gameplay. I scouted out some potential seeds and this one has a good starting area.
@@ -38,18 +41,22 @@ Begin playing immediately and do not dally. The first night of the mod pack is a
 - Use sapphire for sword (2 sapphire)
 - Once you have decent gear, you can check out other worlds. Build a teleporter and use realmstones to travel.
 
-
 ## Mobs
-Avoid new mobs in the beginning. If you avoid the biomes I mentioned, you still might encounter bugeyes, trolls, cycclopses, etc. Each of these can be defeated with a stone sword in 2-3 hits. Once you have a good weapon and some armor, wait for the next big event or Blood Moon and go out killing mobs. There are a lot of interesting items, but you'll specifically be looking for a realmstone.
+Avoid new mobs in the beginning. If you avoid the biomes I mentioned, you still might encounter bugeyes, trolls, cyclops, etc. Each of these can be defeated with a stone sword in 2-3 hits. Once you have a good weapon and some armor, wait for the next big event or Blood Moon and go out killing mobs. There are a lot of interesting items, but you'll specifically be looking for a realmstone.
 
-## Realms.
-There are many realms, but there are 
+## Realms
+There are many realms, but rate of progression of these realms is based on the order you find a realmstone. Realm stones are dropped by mobs. As you explore, you will find realmstones. One thing to note is although you can use multiple realm stones on a single teleporter device, it is beneficial to have multiple teleporters, so you will not have to hunt for the same realms you have already hunted.
 
 ## Events
-Events are useful, but avoid them until you have a set spawn point, tools, weapon(s), armor
+Events are useful, but avoid them until you have a set spawn point, tools, weapon(s), armor. Events will be announced in the chat with:
+- "Today is a big day"
+- "Today is a good day to die"
+- "The hissing sounds begin"
+- "Lost souls scurry around in the darkness"
+- "The ground bathes in the pearly light of the moon"
+- "The world just got stranger"
+- "The hunt for blood has begun"
 
 ## Bosses
-
-## Portal
-
-## Armor
+.[Link to Boss list on the Advent of Ascension Wiki](https://adventofascension.gamepedia.com/Bosses)
+.[Smash](https://adventofascension.gamepedia.com/Smash) and .[Corallus](https://adventofascension.gamepedia.com/Corallus) are the first two bosses you should start with. These are located in the overworld and only require basic equipment and weapons. Additionally, the .[Four Guardians](https://adventofascension.gamepedia.com/Four_Guardians) in the Haven realm and the .[Skeletal Army](https://adventofascension.gamepedia.com/Skeletal_Army) in the Precasia realm are also exciting fights.
